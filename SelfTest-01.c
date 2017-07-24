@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-
+                
 int GetLine(int n);
 void Print(int line, char mark);
 
